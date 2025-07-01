@@ -4,3 +4,6 @@ title = 'My New Hugo Site'
 theme = 'dream'
 [params]
 zenMode = true
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
