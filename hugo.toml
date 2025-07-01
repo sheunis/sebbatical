@@ -1,4 +1,4 @@
-baseURL = 'https://sebbatical.com'
+baseURL = 'https://sebbatical.com/'
 languageCode = 'en-gb'
 title = 'My New Hugo Site'
 theme = 'dream'
