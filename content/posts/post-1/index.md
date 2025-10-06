@@ -1,6 +1,6 @@
 +++
 date = '2025-10-05T10:38:46+01:00'
-draft = true
+draft = false
 title = 'Singapore'
 summary = '16 to 21 July'
 +++
