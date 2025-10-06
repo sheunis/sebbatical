@@ -1,0 +1,25 @@
+{{ partial "head.html" . }}
+  <body class="{{ .Site.Params.themeColor }} {{if .Site.Params.layoutReverse}}layout-reverse{{end}}">
+  {{ partial "sidebar.html" . }}
+    <main class="content container">
+    {{ block "main" . -}}{{- end }}
+    </main>
+
+    {{ if ne hugo.Environment "development"  }}
+      {{ template "_internal/google_analytics.html" . }}
+    {{ end }}
+  </body>
+</html>
+<footer>
+  <script src="https://cdn.jsdelivr.net/npm/glightbox/dist/js/glightbox.min.js"></script>
+  <script>
+    document.addEventListener("DOMContentLoaded", function() {
+      const lightbox = GLightbox({
+        selector: '.glightbox',
+        touchNavigation: true,
+        loop: true,
+        scrollLock: false
+      });
+    });
+  </script>
+</footer>

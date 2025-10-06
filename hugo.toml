@@ -1,9 +1,6 @@
 baseURL = 'https://sebbatical.com/'
 languageCode = 'en-gb'
-title = 'My New Hugo Site'
-theme = 'dream'
+title = 'Sebbatical'
+theme = 'hyde'
 [params]
-zenMode = true
-[caches]
-  [caches.images]
-    dir = ':cacheDir/images'
+  description = 'Some posts about career break travels'
