@@ -93,18 +93,4 @@ Singapore is celebrating it's 60th birthday in August. In the evening they had a
 
 Our final full day in Singapore, before flying to Lombok tomorrow.
 
-Another photo of the Marina Bay Sands.
-
 {{< img_gallery gallery_dir="/post-1/gallery-17">}}
-
-Another photo of the Merlion.
-
-{{< img_gallery gallery_dir="/post-1/gallery-18">}}
-
-The Old Hill Street Police Station.
-
-{{< img_gallery gallery_dir="/post-1/gallery-19">}}
-
-Clarke Quay
-
-{{< img_gallery gallery_dir="/post-1/gallery-20">}}
