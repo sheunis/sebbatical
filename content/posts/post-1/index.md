@@ -37,7 +37,7 @@ Mostly walked around the rest of the day. Picture of the famous Merlion at night
 
 ### 17 July
 
-More strolling around Singapore. Pictures of the colourful facace of the Sri Mariamman Hindu temple.
+More strolling around Singapore. Pictures of the colourful facade of the Sri Mariamman Hindu temple.
 
 {{< img_gallery gallery_dir="/post-1/gallery-5">}}
 
