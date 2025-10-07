@@ -9,6 +9,8 @@ summary = '15 to 21 July'
 - [16 July](#16-july)
 - [17 July](#17-july)
 - [18 July](#18-july)
+- [19 July](#19-july)
+- [20 July](#20-july)
 
 ### 15 July
 
@@ -69,7 +71,40 @@ The famous Marina Bay Sands.
 
 ### 18 July
 
+Visited Hell's Museum at Haw Par Villa. It was built by Aw Boon Haw, the same person who created Tiger balm. Scary place.
+
+{{< img_gallery gallery_dir="/post-1/gallery-13">}}
+
+Went for dinner at Satay Street at the famous Lau Pau Sat hawker centre.
+
+{{< img_gallery gallery_dir="/post-1/gallery-14">}}
+
 ### 19 July
 
+Went to the Botanic Gardens in the morning, before it got too hot. Saw a couple of very big monitor lizards. They can climb trees, which is a terrifying thought.
+
+{{< img_gallery gallery_dir="/post-1/gallery-15">}}
+
+Singapore is celebrating it's 60th birthday in August. In the evening they had a big firework show as part of ongoing rehearsals.
+
+{{< img_gallery gallery_dir="/post-1/gallery-16">}}
 
 ### 20 July
+
+Our final full day in Singapore, before flying to Lombok tomorrow.
+
+Another photo of the Marina Bay Sands.
+
+{{< img_gallery gallery_dir="/post-1/gallery-17">}}
+
+Another photo of the Merlion.
+
+{{< img_gallery gallery_dir="/post-1/gallery-18">}}
+
+The Old Hill Street Police Station.
+
+{{< img_gallery gallery_dir="/post-1/gallery-19">}}
+
+Clarke Quay
+
+{{< img_gallery gallery_dir="/post-1/gallery-20">}}
