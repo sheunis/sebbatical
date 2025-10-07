@@ -7,13 +7,26 @@
 </style>
 
 {{- $dir := .Get "gallery_dir" -}}
+{{- $dir_parts := split $dir "/" -}}
+{{- $data_gallery := index $dir_parts 2 -}}
+
+{{- $metadata := dict -}}
+{{- $path := (printf "%s/metadata.json" $dir) -}}
+{{- with resources.Get $path -}}
+  {{ with . | transform.Unmarshal -}}
+    {{- $metadata = . -}}
+  {{- end -}}
+{{- end -}}
+
 <ul class="image-gallery">
   {{- $images := resources.Match (printf "%s/*.{jpg,jpeg,webp,png}" $dir) -}}
-  {{- range $images }}
+  {{- range $image := $images }}
+    {{- $parts := split $image "/" -}}
+    {{- $filename := index $parts 3 -}}
+    {{- $caption := (index $metadata $filename).caption -}}
     <li>
-      <a href="{{ .RelPermalink }}" class="glightbox" data-gallery="my-gallery-2">
-        <img src="{{ (.Fill "300x300").RelPermalink }}">
-        <!-- <img src="{{ (.Fill "300x300").RelPermalink }}"> -->
+      <a href="{{ $image.RelPermalink }}" class="glightbox" data-gallery="{{ $data_gallery }}" title="{{ $caption }}">
+        <img src="{{ ($image.Fill "300x300").RelPermalink }}" alt="{{ $caption }}" title="{{ $caption }}">
       </a>
     </li>
   {{ end }}
