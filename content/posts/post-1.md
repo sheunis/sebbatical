@@ -1,5 +1,5 @@
 +++
-date = '2025-10-05T10:38:46+01:00'
+date = '2025-10-06T17:00:00+01:00'
 draft = false
 title = 'Singapore'
 summary = '15 to 21 July'
@@ -27,6 +27,7 @@ Arrived in Singapore on the 16 of July. Some pics and a video of the famous wate
 {{< youtube r2S9OVR1B-Y >}}
 
 {{< line_break >}}
+
 Intial impressions of Singapore are that it is ridiculously humid and there's a lot of buildings with plants on them.
 
 {{< img_gallery gallery_dir="/post-1/gallery-3">}}
@@ -91,6 +92,6 @@ Singapore is celebrating it's 60th birthday in August. In the evening they had a
 
 ### 20 July
 
-Our final full day in Singapore, before flying to Lombok tomorrow.
+Our final full day in Singapore, before flying to Lombok.
 
 {{< img_gallery gallery_dir="/post-1/gallery-17">}}

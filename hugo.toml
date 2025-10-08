@@ -3,4 +3,4 @@ languageCode = 'en-gb'
 title = 'Sebbatical'
 theme = 'hyde'
 [params]
-  description = 'Some posts about career break travels'
+  description = 'Posts about career break travels'
