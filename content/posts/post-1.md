@@ -20,7 +20,7 @@ We left the UK on the 15th of July for Singapore. We had a quick stopover at Ham
 
 ### 16 July
 
-Arrived in Singapore on the 16 of July. Some pics and a video of the famous waterfall at Jewel Changi Airport.
+Arrived in Singapore on the 16 of July. Photos and a video of the famous waterfall at Jewel Changi Airport.
 
 {{< img_gallery gallery_dir="/post-1/gallery-2">}}
 
@@ -32,17 +32,17 @@ Intial impressions of Singapore are that it is ridiculously humid and there's a 
 
 {{< img_gallery gallery_dir="/post-1/gallery-3">}}
 
-Mostly walked around the rest of the day. Picture of the famous Merlion at night.
+Mostly walked around the rest of the day. Photos of the famous Merlion at night.
 
 {{< img_gallery gallery_dir="/post-1/gallery-4">}}
 
 ### 17 July
 
-More strolling around Singapore. Pictures of the colourful facade of the Sri Mariamman Hindu temple.
+More strolling around Singapore. Photos of the colourful facade of the Sri Mariamman Hindu temple.
 
 {{< img_gallery gallery_dir="/post-1/gallery-5">}}
 
-Pictures of the Buddha Tooth Relic Temple.
+Photos of the Buddha Tooth Relic Temple.
 
 {{< img_gallery gallery_dir="/post-1/gallery-6">}}
 

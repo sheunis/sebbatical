@@ -27,6 +27,10 @@ We went on a snorkelling trip to Gili Nangg, Gili Sudak and Gili Kedis.
 
 {{< img_gallery gallery_dir="/post-2/gallery-1">}}
 
+There is no escaping.
+
+{{< img_gallery gallery_dir="/post-2/gallery-2">}}
+
 ### Gerupuk (24 to 31 July)
 
 Spent the week doing a surf camp. Not too many photos here.
@@ -35,7 +39,7 @@ Spent the week doing a surf camp. Not too many photos here.
 
 Local fishing boats.
 
-{{< img_gallery gallery_dir="/post-2/gallery-2">}}
+{{< img_gallery gallery_dir="/post-2/gallery-3">}}
 
 ### Kuta (31 July to 1 August)
 
@@ -47,19 +51,19 @@ Back to Kuta before going to Gili Air.
 
 Sunset on Gili Air.
 
-{{< img_gallery gallery_dir="/post-2/gallery-3">}}
+{{< img_gallery gallery_dir="/post-2/gallery-4">}}
 
 #### 2 August
 
-Some drone photos I took at sunset.
+Drone photos I took at sunset.
 
-{{< img_gallery gallery_dir="/post-2/gallery-4">}}
+{{< img_gallery gallery_dir="/post-2/gallery-5">}}
 
 #### 3 August
 
-Some drone photos and a short video I took at sunrise.
+Drone photos and a short video I took at sunrise.
 
-{{< img_gallery gallery_dir="/post-2/gallery-5">}}
+{{< img_gallery gallery_dir="/post-2/gallery-6">}}
 
 {{< youtube mk_Ang0EyuU >}}
 
@@ -67,17 +71,19 @@ Some drone photos and a short video I took at sunrise.
 
 Gili Air is known for turtles. We saw one while snorkelling, as well as a spotted boxfish.
 
-{{< img_gallery gallery_dir="/post-2/gallery-6">}}
+{{< img_gallery gallery_dir="/post-2/gallery-7">}}
 
 Another sunset on Gili Air.
 
-{{< img_gallery gallery_dir="/post-2/gallery-7">}}{{< line_break >}}
+{{< img_gallery gallery_dir="/post-2/gallery-8">}}
+
+{{< line_break >}}
 
 #### 4 August
 
 Another drone sunset photo and a short video.
 
-{{< img_gallery gallery_dir="/post-2/gallery-8">}}
+{{< img_gallery gallery_dir="/post-2/gallery-9">}}
 
 {{< youtube UJ2xxxeaI_s >}}
 
@@ -85,9 +91,9 @@ Another drone sunset photo and a short video.
 
 #### 5 August
 
-Some more drone sunrise photos.
+More drone sunrise photos.
 
-{{< img_gallery gallery_dir="/post-2/gallery-9">}}
+{{< img_gallery gallery_dir="/post-2/gallery-10">}}
 
 
 
