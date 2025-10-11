@@ -87,11 +87,21 @@ More archways.
 
 ### Nusa Lembongan (9 to 12 August)
 
+#### 9 August
+
+Sunset on Nusa Lembongan.
+
+{{< img_gallery gallery_dir="/post-3/gallery-14">}}
+
 #### 10 August
+
+Photo taken at Lembongan Beach.
+
+{{< img_gallery gallery_dir="/post-3/gallery-15">}}
 
 Drone photos and videos I took at sunset.
 
-{{< img_gallery gallery_dir="/post-3/gallery-14">}}
+{{< img_gallery gallery_dir="/post-3/gallery-16">}}
 
 {{< youtube tH2MP9WOXbw >}}
 
@@ -105,7 +115,7 @@ Drone photos and videos I took at sunset.
 
 We went on a snorkelling trip in the morning and saw a couple of manta rays.
 
-{{< img_gallery gallery_dir="/post-3/gallery-15">}}
+{{< img_gallery gallery_dir="/post-3/gallery-17">}}
 
 {{< youtube 2r84hK1h3HI >}}
 
@@ -113,11 +123,11 @@ We went on a snorkelling trip in the morning and saw a couple of manta rays.
 
 We also saw two turtles, a porcupine fish, and some clownfish.
 
-{{< img_gallery gallery_dir="/post-3/gallery-16">}}
+{{< img_gallery gallery_dir="/post-3/gallery-18">}}
 
 Drone photos and a video I took at sunset.
 
-{{< img_gallery gallery_dir="/post-3/gallery-17">}}
+{{< img_gallery gallery_dir="/post-3/gallery-19">}}
 
 {{< youtube IU2QMD4c3Ik >}}
 
@@ -129,4 +139,4 @@ Drone photos and a video I took at sunset.
 
 Went to a Kekac Dance at Uluwatu Temple in the evening.
 
-{{< img_gallery gallery_dir="/post-3/gallery-18">}}
+{{< img_gallery gallery_dir="/post-3/gallery-20">}}
