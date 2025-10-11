@@ -7,6 +7,9 @@ summary = '15 to 31 August'
 
 - [Bangkok (15 to 19 August)](#bangkok-15-to-19-august)
   - [15 August](#15-august)
+  - [16 August](#16-august)
+  - [18 August](#18-august)
+  - [19 August](#19-august)
 - [Chiang Mai (20 to 23 August)](#chiang-mai-20-to-23-august)
   - [20 August](#20-august)
 - [Koh Tao (23 to 27 August)](#koh-tao-23-to-27-august)
@@ -54,13 +57,33 @@ The Wat Arun temple.
 
 {{< img_gallery gallery_dir="/post-4/gallery-8">}}
 
-aaa
+We went to a World Series Muay Thai event at Rajadamnern Stadium.
+
+{{< img_gallery gallery_dir="/post-4/gallery-9">}}
+
+{{< youtube _OVRay0EvKY >}}
+
+{{< line_break >}}
+
+#### 18 August
+
+More skyline view photos from the roof of our hotel.
+
+{{< img_gallery gallery_dir="/post-4/gallery-10">}}
 
 #### 19 August
 
 Another tired-looking bus.
 
-{{< img_gallery gallery_dir="/post-4/gallery-99">}}
+{{< img_gallery gallery_dir="/post-4/gallery-11">}}
+
+Hotel shuttle boats and another longtail boat.
+
+{{< img_gallery gallery_dir="/post-4/gallery-12">}}
+
+Photos taken in Chinatown.
+
+{{< img_gallery gallery_dir="/post-4/gallery-13">}}
 
 ### Chiang Mai (20 to 23 August)
 

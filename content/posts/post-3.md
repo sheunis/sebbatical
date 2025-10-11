@@ -137,6 +137,6 @@ Drone photos and a video I took at sunset.
 
 #### 12 August
 
-Went to a Kekac Dance at Uluwatu Temple in the evening.
+We went to a Kekac Dance at Uluwatu Temple in the evening.
 
 {{< img_gallery gallery_dir="/post-3/gallery-20">}}
