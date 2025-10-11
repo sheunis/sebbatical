@@ -87,7 +87,15 @@ Photos taken in Chinatown.
 
 ### Chiang Mai (20 to 23 August)
 
+#### 20 August
 
+We took the Express No. 51 sleeper train to Chiang Mai. The train was a bit rough, but the journey was very scenic.
+
+{{< img_gallery gallery_dir="/post-4/gallery-14">}}
+
+{{< youtube UUC6mSpv-i0 >}}
+
+{{< line_break >}}
 
 ### Koh Tao (23 to 27 August)
 
