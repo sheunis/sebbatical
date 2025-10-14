@@ -1,5 +1,5 @@
 +++
-date = '2025-10-1416:51:00+01:00'
+date = '2025-10-14T16:51:00+01:00'
 draft = false
 title = 'Thailand - Koh Tao, Koh Samui and Phuket'
 summary = '23 to 31 August'
