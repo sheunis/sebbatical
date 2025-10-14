@@ -1,8 +1,8 @@
 +++
-date = '2025-10-30T19:12:00+01:00'
+date = '2025-10-30T18:12:00+01:00'
 draft = true
-title = 'Maldives'
-summary = '5 to 27 September'
+title = 'Kuala Lumpur'
+summary = '31 August to 5 September'
 +++
 
 abc

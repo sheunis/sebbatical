@@ -1,8 +1,8 @@
 +++
-date = '2025-10-11T00:01:00+01:00'
-draft = true
-title = 'Thailand'
-summary = '15 to 31 August'
+date = '2025-10-13T13:55:00+01:00'
+draft = false
+title = 'Thailand - Bangkok and Chiang Mai'
+summary = '15 to 23 August'
 +++
 
 - [Bangkok (15 to 19 August)](#bangkok-15-to-19-august)
@@ -12,12 +12,8 @@ summary = '15 to 31 August'
   - [19 August](#19-august)
 - [Chiang Mai (20 to 23 August)](#chiang-mai-20-to-23-august)
   - [20 August](#20-august)
-- [Koh Tao (23 to 27 August)](#koh-tao-23-to-27-august)
-  - [24 August](#24-august)
-- [Koh Samui (27 to 30 August)](#koh-samui-27-to-30-august)
-  - [27 August](#27-august)
-- [Phuket (30 to 31 August)](#phuket-30-to-31-august)
-  - [30 August](#30-august)
+  - [21 August](#21-august)
+  - [22 August](#22-august)
 
 ### Bangkok (15 to 19 August)
 
@@ -97,8 +93,38 @@ We took the Express No. 51 sleeper train to Chiang Mai. The train was a bit roug
 
 {{< line_break >}}
 
-### Koh Tao (23 to 27 August)
+#### 21 August
 
-### Koh Samui (27 to 30 August)
+Photos taken at the Wat Chiang Man temple.
 
-### Phuket (30 to 31 August)
+{{< img_gallery gallery_dir="/post-4/gallery-15">}}
+
+Viharn at the Wat Phan On temple.
+
+{{< img_gallery gallery_dir="/post-4/gallery-16">}}
+
+Buddha statue at the Wat Phan Tao temple.
+
+{{< img_gallery gallery_dir="/post-4/gallery-17">}}
+
+Statues of Thao Wessuwan and Buddha at the Wat Phra That Doi Kham temple.
+
+{{< img_gallery gallery_dir="/post-4/gallery-18">}}
+
+Many interesting businesses in Chiang Mai.
+
+{{< img_gallery gallery_dir="/post-4/gallery-19">}}
+
+#### 22 August
+
+Photos taken at the Wat Pha Lat Temple.
+
+{{< img_gallery gallery_dir="/post-4/gallery-20">}}
+
+More photos taken at the Wat Phra That Doi Kham temple.
+
+{{< img_gallery gallery_dir="/post-4/gallery-21">}}
+
+More interesting businesses.
+
+{{< img_gallery gallery_dir="/post-4/gallery-22">}}

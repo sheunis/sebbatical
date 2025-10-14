@@ -1,7 +1,7 @@
 +++
 date = '2025-10-10T23:55:00+01:00'
 draft = false
-title = 'Bali'
+title = 'Indonesia - Bali'
 summary = '5 to 15 August'
 +++
 
@@ -15,7 +15,6 @@ summary = '5 to 15 August'
   - [11 August](#11-august)
 - [Uluwatu (12 to 15 August)](#uluwatu-12-to-15-august)
   - [12 August](#12-august)
-
 
 ### Ubud (5 to 9 August)
 
