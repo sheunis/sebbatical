@@ -23,7 +23,7 @@ This bus has seen better days.
 
 {{< img_gallery gallery_dir="/post-4/gallery-1">}}
 
-Skyline view from the roof of our hotel.
+Skyline view from the rooftop of our hotel.
 
 {{< img_gallery gallery_dir="/post-4/gallery-2">}}
 
@@ -63,7 +63,7 @@ We went to a World Series Muay Thai event at Rajadamnern Stadium.
 
 #### 18 August
 
-More skyline view photos from the roof of our hotel.
+More skyline view photos from the rooftop of our hotel.
 
 {{< img_gallery gallery_dir="/post-4/gallery-10">}}
 
