@@ -10,6 +10,10 @@ summary = '15 to 27 September'
   - [16 September](#16-september)
   - [17 September](#17-september)
 - [Himmafushi (18 to 22 September)](#himmafushi-18-to-22-september)
+  - [18 September](#18-september)
+  - [19 September](#19-september)
+  - [20 September](#20-september)
+  - [21 September](#21-september)
 - [Huruvalhi (22 to 27 September)](#huruvalhi-22-to-27-september)
 
 ### Omadhoo (15 to 18 September)
@@ -78,5 +82,44 @@ Final sunset drone photos and video.
 
 ### Himmafushi (18 to 22 September)
 
+#### 18 September
+
+Drone photos and a video I took around sunset.
+
+{{< img_gallery gallery_dir="/post-8/gallery-9">}}
+
+{{< youtube g_XphCWJh-Q >}}
+
+{{< line_break >}}
+
+#### 19 September
+
+Sunset photo taken from the tourist beach.
+
+{{< img_gallery gallery_dir="/post-8/gallery-10">}}
+
+#### 20 September
+
+The Maldives is a very strict Muslim country, with alcohol forbidden on all local islands. Some islands, like Himmafushi, have a floating bar which sells some alcohol. This is the first beer I had since arriving in the country.
+
+{{< img_gallery gallery_dir="/post-8/gallery-11">}}
+
+Sunset photo taken from the floating bar.
+
+{{< img_gallery gallery_dir="/post-8/gallery-12">}}
+
+#### 21 September
+
+Sign at the port welcoming visitors.
+
+{{< img_gallery gallery_dir="/post-8/gallery-13">}}
+
+Final sunset drone photos and video.
+
+{{< img_gallery gallery_dir="/post-8/gallery-14">}}
+
+{{< youtube yc_BYfeQ-TM >}}
+
+{{< line_break >}}
 
 ### Huruvalhi (22 to 27 September)
