@@ -120,7 +120,7 @@ We went on a snorkelling trip in the morning and saw a couple of manta rays.
 
 {{< line_break >}}
 
-We also saw two turtles, a porcupine fish, and some clownfish.
+We also saw two turtles, a porcupine fish, and some yellowtail clownfish.
 
 {{< img_gallery gallery_dir="/post-3/gallery-18">}}
 
