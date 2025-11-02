@@ -28,7 +28,7 @@ Arrived in Singapore on the 16 of July. Photos and a video of the famous waterfa
 
 {{< line_break >}}
 
-Intial impressions of Singapore are that it is ridiculously humid and there's a lot of buildings with plants on them.
+Initial impressions of Singapore are that it is ridiculously humid and there's a lot of buildings with plants on them.
 
 {{< img_gallery gallery_dir="/post-1/gallery-3">}}
 
