@@ -55,7 +55,8 @@ We had a good view of the lunar eclipse in the evening.
 
 #### 8 September
 
-We went on a manta ray trip to Hanifaru Bay, but unfortunately the most exciting thing we saw was an eagle ray.
+We went on a manta ray trip to Hanifaru Bay, but unfortunately the most
+exciting thing we saw was an eagle ray.
 
 {{< img_gallery gallery_dir="/post-7/gallery-7">}}
 
@@ -65,7 +66,8 @@ More photos of fish at the local reef.
 
 {{< img_gallery gallery_dir="/post-7/gallery-8">}}
 
-We went on another trip to Hanifaru Bay and were lucky to see a whale shark and many manta rays.
+We went on another trip to Hanifaru Bay and were lucky to see a whale shark and
+many manta rays.
 
 {{< img_gallery gallery_dir="/post-7/gallery-9">}}
 
@@ -81,7 +83,8 @@ We went on another trip to Hanifaru Bay and were lucky to see a whale shark and 
 
 #### 10 September
 
-Another trip to Hanifaru Bay. Apparently there were more than 80 manta rays in the bay.
+Another trip to Hanifaru Bay. Apparently there were more than 80 manta rays in
+the bay.
 
 {{< img_gallery gallery_dir="/post-7/gallery-11">}}
 
@@ -91,7 +94,7 @@ Another trip to Hanifaru Bay. Apparently there were more than 80 manta rays in t
 
 #### 11 September
 
-Our final trip to Hanifaru Bay. 
+Our final trip to Hanifaru Bay.
 
 {{< img_gallery gallery_dir="/post-7/gallery-12">}}
 
@@ -99,7 +102,8 @@ Our final trip to Hanifaru Bay.
 
 #### 12 September
 
-We took an early flight from Dharavandhoo back to Male, before taking a boat to Dhigurah.
+We took an early flight from Dharavandhoo back to Male, before taking a boat to
+Dhigurah.
 
 {{< img_gallery gallery_dir="/post-7/gallery-13">}}
 
@@ -121,7 +125,8 @@ Some photos I took during sunset.
 
 #### 13 September
 
-We went on a whale shark snorkelling trip in the morning and were lucky enough to see one early on.
+We went on a whale shark snorkelling trip in the morning and were lucky enough
+to see one early on.
 
 {{< img_gallery gallery_dir="/post-7/gallery-17">}}
 
@@ -129,7 +134,8 @@ We went on a whale shark snorkelling trip in the morning and were lucky enough t
 
 {{< line_break >}}
 
-Aterwards we went snorkelling at another spot. Highlights included two turtles and some Maldive anemonefish.
+Aterwards we went snorkelling at another spot. Highlights included two turtles
+and some Maldive anemonefish.
 
 {{< img_gallery gallery_dir="/post-7/gallery-18">}}
 
@@ -147,11 +153,14 @@ More photos I took during sunset.
 
 #### 14 September
 
-We did some snorkelling early in the day. The highlight was mostly seeing more Maldive anemonefish.
+We did some snorkelling early in the day. The highlight was mostly seeing more
+Maldive anemonefish.
 
 {{< img_gallery gallery_dir="/post-7/gallery-21">}}
 
-We went on another whale shark trip later in the day and managed to see two at the same time. Unfortunately it was getting dark at that stage and the light was quite bad, but I did manage to get some photos.
+We went on another whale shark trip later in the day and managed to see two at
+the same time. Unfortunately it was getting dark at that stage and the light
+was quite bad, but I did manage to get some photos.
 
 {{< img_gallery gallery_dir="/post-7/gallery-22">}}
 

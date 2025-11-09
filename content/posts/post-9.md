@@ -20,7 +20,8 @@ We found some wild otters in the Singapore River.
 
 ### 29 September
 
-We spent the day going to the Singapore Zoo, River Wonders and Night Safari. I didn't take too many photos, but here some of otters.
+We spent the day going to the Singapore Zoo, River Wonders and Night Safari. I
+didn't take too many photos, but here some of otters.
 
 {{< img_gallery gallery_dir="/post-9/gallery-1">}}
 
@@ -34,6 +35,7 @@ Another visit to Satay Street.
 
 Final day before our flight back to the UK in the evening.
 
-We went to Sentosa and did the Skyline Luge, which is a lot of fun. Here is a photo of the chair lift that takes you back to the top.
+We went to Sentosa and did the Skyline Luge, which is a lot of fun. Here is a
+photo of the chair lift that takes you back to the top.
 
 {{< img_gallery gallery_dir="/post-9/gallery-3">}}

@@ -12,9 +12,9 @@ summary = '23 to 31 August'
 - [Koh Samui (27 to 30 August)](#koh-samui-27-to-30-august)
   - [28 August](#28-august)
   - [29 August](#29-august)
-  - [30 August](#30-august)
+  - [30 August (1)](#30-august-1)
 - [Phuket (30 to 31 August)](#phuket-30-to-31-august)
-  - [30 August](#30-august)
+  - [30 August (2)](#30-august-2)
 
 ### Koh Tao (23 to 27 August)
 
@@ -148,7 +148,7 @@ Ang Thong isn't known for good snorkelling, but we did see some fish.
 
 {{< img_gallery gallery_dir="/post-5/gallery-23">}}
 
-#### 30 August
+#### 30 August (1)
 
 We flew from Koh Samui to Phuket. The airport at Koh Samui is entirely outdoors.
 
@@ -156,6 +156,6 @@ We flew from Koh Samui to Phuket. The airport at Koh Samui is entirely outdoors.
 
 ### Phuket (30 to 31 August)
 
-#### 30 August
+#### 30 August (2)
 
 Our final full day in Thailand, before flying to Kuala Lumpur.

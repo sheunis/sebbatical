@@ -85,7 +85,8 @@ Photos taken in Chinatown.
 
 #### 20 August
 
-We took the Express No. 51 sleeper train to Chiang Mai. The train was a bit rough, but the journey was very scenic.
+We took the Express No. 51 sleeper train to Chiang Mai. The train was a bit
+rough, but the journey was very scenic.
 
 {{< img_gallery gallery_dir="/post-4/gallery-14">}}
 

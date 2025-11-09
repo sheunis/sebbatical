@@ -9,8 +9,9 @@ summary = '5 to 15 August'
   - [5 August](#5-august)
   - [6 August](#6-august)
   - [7 August](#7-august)
-  - [9 August](#9-august)
+  - [9 August (1)](#9-august-1)
 - [Nusa Lembongan (9 to 12 August)](#nusa-lembongan-9-to-12-august)
+  - [9 August (2)](#9-august-2)
   - [10 August](#10-august)
   - [11 August](#11-august)
 - [Uluwatu (12 to 15 August)](#uluwatu-12-to-15-august)
@@ -74,7 +75,7 @@ Photos of Leke Leke Waterfall.
 
 {{< img_gallery gallery_dir="/post-3/gallery-11">}}
 
-#### 9 August
+#### 9 August (1)
 
 Visited the Ubud Water Palace in the morning.
 
@@ -86,7 +87,7 @@ More archways.
 
 ### Nusa Lembongan (9 to 12 August)
 
-#### 9 August
+#### 9 August (2)
 
 Sunset on Nusa Lembongan.
 

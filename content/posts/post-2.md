@@ -69,7 +69,8 @@ Drone photos and a short video I took at sunrise.
 
 {{< line_break >}}
 
-Gili Air is known for turtles. We saw one while snorkelling, as well as a spotted boxfish.
+Gili Air is known for turtles. We saw one while snorkelling, as well as a
+spotted boxfish.
 
 {{< img_gallery gallery_dir="/post-2/gallery-7">}}
 
@@ -94,7 +95,3 @@ Another drone sunset photo and a short video.
 More drone sunrise photos.
 
 {{< img_gallery gallery_dir="/post-2/gallery-10">}}
-
-
-
-

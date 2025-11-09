@@ -106,7 +106,9 @@ Sunset photo taken from the tourist beach.
 
 #### 20 September
 
-The Maldives is a very strict Muslim country, with alcohol forbidden on all local islands. Some islands, like Himmafushi, have a floating bar which sells some alcohol. This is the first beer I had since arriving in the country.
+The Maldives is a very strict Muslim country, with alcohol forbidden on all
+local islands. Some islands, like Himmafushi, have a floating bar which sells
+some alcohol. This is the first beer I had since arriving in the country.
 
 {{< img_gallery gallery_dir="/post-8/gallery-11">}}
 
@@ -134,7 +136,8 @@ Final sunset drone photos and video.
 
 We spent our final days in the Maldives at a resort on Huruvalhi.
 
-Nice paint job on one of the planes at the seaplane terminal at Male International Airport.
+Nice paint job on one of the planes at the seaplane terminal at Male
+International Airport.
 
 {{< img_gallery gallery_dir="/post-8/gallery-15">}}
 
@@ -158,7 +161,8 @@ Arriving at Huruvalhi.
 
 #### 23 September
 
-We went snorkelling at the local reef. The highlights were seeing a yellow blackspotted pufferfish and a whitespotted boxfish.
+We went snorkelling at the local reef. The highlights were seeing a yellow
+blackspotted pufferfish and a whitespotted boxfish.
 
 {{< img_gallery gallery_dir="/post-8/gallery-19">}}
 
@@ -176,7 +180,8 @@ Drone photos and a video I took during sunrise.
 
 {{< line_break >}}
 
-More snorkelling at the local reef. This time we saw a porcupinefish, a blackspotted pufferfish and a turtle.
+More snorkelling at the local reef. This time we saw a porcupinefish, a
+blackspotted pufferfish and a turtle.
 
 {{< img_gallery gallery_dir="/post-8/gallery-22">}}
 
@@ -210,11 +215,13 @@ We went on a dolphin watching trip in the afternoon.
 
 #### 26 September
 
-We went on a final snorkelling trip in the morning. The highlight was seeing a starry pufferfish.
+We went on a final snorkelling trip in the morning. The highlight was seeing a
+starry pufferfish.
 
 {{< img_gallery gallery_dir="/post-8/gallery-25">}}
 
-You can spot many sharks and rays from Huruvalhi island. Here is a juvenile blacktip reef shark we saw.
+You can spot many sharks and rays from Huruvalhi island. Here is a juvenile
+blacktip reef shark we saw.
 
 {{< img_gallery gallery_dir="/post-8/gallery-26">}}
 
@@ -261,6 +268,3 @@ Back at Male International Airport.
 The seaplane terminal at Male International Airport.
 
 {{< img_gallery gallery_dir="/post-8/gallery-29">}}
-
-
-

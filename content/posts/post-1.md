@@ -14,13 +14,15 @@ summary = '15 to 21 July'
 
 ### 15 July
 
-We left the UK on the 15th of July for Singapore. We had a quick stopover at Hamad International Airport in Doha.
+We left the UK on the 15th of July for Singapore. We had a quick stopover at
+Hamad International Airport in Doha.
 
 {{< img_gallery gallery_dir="/post-1/gallery-1">}}
 
 ### 16 July
 
-Arrived in Singapore on the 16 of July. Photos and a video of the famous waterfall at Jewel Changi Airport.
+Arrived in Singapore on the 16 of July. Photos and a video of the famous
+waterfall at Jewel Changi Airport.
 
 {{< img_gallery gallery_dir="/post-1/gallery-2">}}
 
@@ -28,17 +30,20 @@ Arrived in Singapore on the 16 of July. Photos and a video of the famous waterfa
 
 {{< line_break >}}
 
-Initial impressions of Singapore are that it is ridiculously humid and there's a lot of buildings with plants on them.
+Initial impressions of Singapore are that it is ridiculously humid and there's
+a lot of buildings with plants on them.
 
 {{< img_gallery gallery_dir="/post-1/gallery-3">}}
 
-Mostly walked around the rest of the day. Photos of the famous Merlion at night.
+Mostly walked around the rest of the day. Photos of the famous Merlion at
+night.
 
 {{< img_gallery gallery_dir="/post-1/gallery-4">}}
 
 ### 17 July
 
-More strolling around Singapore. Photos of the colourful facade of the Sri Mariamman Hindu temple.
+More strolling around Singapore. Photos of the colourful facade of the Sri
+Mariamman Hindu temple.
 
 {{< img_gallery gallery_dir="/post-1/gallery-5">}}
 
@@ -72,7 +77,8 @@ The famous Marina Bay Sands.
 
 ### 18 July
 
-Visited Hell's Museum at Haw Par Villa. It was built by Aw Boon Haw, the same person who created Tiger balm. Scary place.
+Visited Hell's Museum at Haw Par Villa. It was built by Aw Boon Haw, the same
+person who created Tiger balm. Scary place.
 
 {{< img_gallery gallery_dir="/post-1/gallery-13">}}
 
@@ -82,11 +88,14 @@ Went for dinner at Satay Street at the famous Lau Pau Sat hawker centre.
 
 ### 19 July
 
-Went to the Botanic Gardens in the morning, before it got too hot. Saw a couple of very big monitor lizards. They can climb trees, which is a terrifying thought.
+Went to the Botanic Gardens in the morning, before it got too hot. Saw a couple
+of very big monitor lizards. They can climb trees, which is a terrifying
+thought.
 
 {{< img_gallery gallery_dir="/post-1/gallery-15">}}
 
-Singapore is celebrating it's 60th birthday in August. In the evening they had a big firework show as part of ongoing rehearsals.
+Singapore is celebrating it's 60th birthday in August. In the evening they had
+a big firework show as part of ongoing rehearsals.
 
 {{< img_gallery gallery_dir="/post-1/gallery-16">}}
 
