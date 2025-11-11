@@ -134,7 +134,7 @@ to see one early on.
 
 {{< line_break >}}
 
-Aterwards we went snorkelling at another spot. Highlights included two turtles
+Afterwards we went snorkelling at another spot. Highlights included two turtles
 and some Maldive anemonefish.
 
 {{< img_gallery gallery_dir="/post-7/gallery-18">}}
