@@ -5,7 +5,7 @@ title = 'Mexico'
 summary = '8 February to 5 March'
 +++
 
-- [Cancun (8 to 9 February)](#cancun-8-february)
+- [Cancun (8 to 9 February)](#cancun-8-to-9-february)
 - [Valladolid (9 to 13 February)](#valladolid-9-to-13-february)
   - [10 February](#10-february)
   - [12 February](#12-february)
