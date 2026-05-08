@@ -5,7 +5,7 @@ title = 'Mexico'
 summary = '8 February to 5 March'
 +++
 
-- [Cancun (8 February)](#cancun-8-february)
+- [Cancun (8 to 9 February)](#cancun-8-february)
 - [Valladolid (9 to 13 February)](#valladolid-9-to-13-february)
   - [10 February](#10-february)
   - [12 February](#12-february)
@@ -32,7 +32,7 @@ summary = '8 February to 5 March'
   - [3 March](#3-march)
   - [4 March](#4-march)
 
-### Cancun (8 February)
+### Cancun (8 to 9 February)
 
 We left the UK on the 8th of February and arrived in Cancun on the same day. We took a bus to Valladolid the next day.
 
