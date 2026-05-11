@@ -34,7 +34,7 @@ We flew from Mexico city to San Jose. We took a bus to La Fortuna the following 
 
 #### 6 March
 
-Some photos of birds I took.
+Photos of birds I took.
 
 {{< img_gallery gallery_dir="/post-11/gallery-1">}}
 
@@ -116,7 +116,7 @@ More photos of birds.
 
 #### 19 March
 
-We went on a hike in the morning. Some photos I took of the local wildlife.
+We went on a hike in the morning. Photos I took of the local wildlife.
 
 {{< img_gallery gallery_dir="/post-11/gallery-14">}}
 

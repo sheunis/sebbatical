@@ -40,9 +40,9 @@ We left the UK on the 8th of February and arrived in Cancun on the same day. We 
 
 #### 10 February
 
-We went on a trip to Ekʼ Balam, an ancient Yucatec-Maya archaeological site, and a couple of cenotes around Valladolid. Cenotes are water-filled sinkholes that people swim in. Some of them 
+We went on a trip to Ekʼ Balam, an ancient Yucatec-Maya archaeological site, and a couple of cenotes around Valladolid. Cenotes are water-filled sinkholes that people swim in. 
 
-Some photos taken around Ekʼ Balam.
+Photos taken around Ekʼ Balam.
 
 {{< img_gallery gallery_dir="/post-10/gallery-1">}}
 
@@ -78,7 +78,7 @@ Photo of a black-headed trogon.
 
 {{< img_gallery gallery_dir="/post-10/gallery-6">}}
 
-Some photos taken around Tulum.
+Photos taken around Tulum.
 
 {{< img_gallery gallery_dir="/post-10/gallery-7">}}
 
@@ -132,7 +132,7 @@ We took a flight from Chetumal to Oaxaca via Mexico City.
 
 #### 21 February
 
-Some photos taken around Oaxaca.
+Photos taken around Oaxaca.
 
 {{< img_gallery gallery_dir="/post-10/gallery-13">}}
 
@@ -208,6 +208,6 @@ We went to a Lucha Libre event in the evening.
 
 #### 4 March
 
-Some photos taken around Barrio Chino.
+Photos taken around Barrio Chino.
 
 {{< img_gallery gallery_dir="/post-10/gallery-22">}}
